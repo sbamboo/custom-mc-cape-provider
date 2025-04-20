@@ -1,2 +1,2 @@
-# litetex-cape-provider_custom-provider
-A custom cape provider for @litetex's cape-provider mod
+# custom-mc-cape-provider
+A custom cape provider, currently for @litetex's cape-provider mod
